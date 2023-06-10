@@ -221,13 +221,13 @@ def main(
     
     
     
-    st.sidebar.title('Василиса, с днем рождения!')
-    st.sidebar.image('hi.JPG')
-    st.sidebar.info('Шчасця, здароуя!')
+    st.sidebar.title('Василиса, с Днем Рождения!')
+    st.sidebar.image('HB1.jpg')
+    st.sidebar.info('От любимых коллег:)')
     
     
-    st.markdown("<h1 style='text-align: center; '>От коллег! :).</h1>", unsafe_allow_html = True)
-    st.image('hi.JPG', width=700)
+    st.markdown("<h1 style='text-align: center; '>Пусть твоя жизнь всегда будет яркой! :).</h1>", unsafe_allow_html = True)
+    st.image('HB2.jpg', width=700)
 
    
     
