@@ -227,20 +227,21 @@ def main(
     
     
     st.markdown("<h1 style='text-align: center; '>От коллег! :).</h1>", unsafe_allow_html = True)
-    #st.image('hi.jpg', width=400)
+    st.image('hi.JPG', width=700)
+
    
     
-    st_player("https://www.youtube.com/watch?v=CCHdMIEGaaM")
+    st_player("https://www.youtube.com/watch?v=K4Ei6x1ofCk")
     
 
     
-    if st.button("Нажми кнопку! Там ешё пару сюрпризов."):
+    if st.button("Нажми кнопку! Там ешё пару сюрпризов:)"):
         
         
       
        
         st.balloons()
-        st_player("https://soundcloud.com/ahmed-mano-5/eminem_im-not-afraid")
+        st_player("https://www.youtube.com/watch?v=SiXCZ-Ew0b0")
         time.sleep(2.5)
         st.balloons()
         time.sleep(2.5)
