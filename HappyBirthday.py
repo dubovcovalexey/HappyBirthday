@@ -7,7 +7,7 @@ from streamlit_player import st_player
 
 
 rain(
-    emoji="💵",
+    emoji="🥳",
     font_size=30,
     falling_speed=5,
     animation_length="infinite",
@@ -210,7 +210,7 @@ def main(
 
     #def example():
         #rain(
-            #emoji="💵",
+            #emoji="🎂",
             #font_size=30,
             #falling_speed=5,
             #animation_length="infinite",
@@ -221,12 +221,12 @@ def main(
     
     
     
-    st.sidebar.title('Веб-приложение для Алёны и Алексея')
+    st.sidebar.title('Василиса, с днем рождения!')
     st.sidebar.image('hi.JPG')
-    st.sidebar.info('Фамилия разработчика слишком известная :)')
+    st.sidebar.info('Шчасця, здароуя!')
     
     
-    st.markdown("<h1 style='text-align: center; '>Это Ваше первое простое, но такое гордое веб-приложение :).</h1>", unsafe_allow_html = True)
+    st.markdown("<h1 style='text-align: center; '>От коллег! :).</h1>", unsafe_allow_html = True)
     #st.image('hi.jpg', width=400)
    
     
